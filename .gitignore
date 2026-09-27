@@ -1,0 +1,8 @@
+**/bin/
+**/obj/
+.tools/
+dist/
+.vs/
+*.user
+*.mp3
+!src/FunnyKeys/Assets/Sounds/*.mp3
